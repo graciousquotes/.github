@@ -52,11 +52,11 @@ GET https://graciousquotes.com/wp-json/gq/v1/quotes
 GET https://graciousquotes.com/wp-json/gq/v1/quotes/{id}
 ```
 
-The pages and the feed are built from the same records, so they cannot disagree. Endpoints, terms and examples: [For developers](https://graciousquotes.com/developers/).
+The pages and the feed are built from the same records, so they cannot disagree. Endpoints, terms and examples: [For developers](https://graciousquotes.com/developers/) · [OpenAPI 3.1](https://graciousquotes.com/developers/openapi.json).
 
 | Repository | What it is |
 |---|---|
-| [`langchain-graciousquotes`](https://github.com/graciousquotes/langchain-graciousquotes) | LangChain tools that check who really said a quote, with the source and a citation. [Guide](https://graciousquotes.com/developers/langchain/) · [PyPI](https://pypi.org/project/langchain-graciousquotes/) |
+| [`langchain-graciousquotes`](https://github.com/graciousquotes/langchain-graciousquotes) | LangChain tools that check who really said a quote, with the source and a citation. [Guide](https://graciousquotes.com/developers/langchain/) · [PyPI](https://pypi.org/project/langchain-graciousquotes/) · [DOI](https://doi.org/10.5281/zenodo.23258870) |
 
 ## Use of AI
 
