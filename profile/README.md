@@ -61,7 +61,7 @@ a person reviews every attribution and approves every correction.
 
 ## Who is behind it
 
-<img src="jeremiah-say.jpg" alt="Jeremiah Say, founder and editor of Gracious Quotes" width="120" align="left" hspace="16">
+<img src="https://raw.githubusercontent.com/graciousquotes/.github/main/profile/jeremiah-say.jpg" alt="Jeremiah Say, founder and editor of Gracious Quotes" width="120" align="left" hspace="16">
 
 **[Jeremiah Say](https://graciousquotes.com/about/jeremiah-say/)**, founder and editor.
 I choose what is published, review attributions and approve every correction.
