@@ -70,10 +70,11 @@ a person reviews every attribution and approves every correction.
 **[Jeremiah Say](https://graciousquotes.com/about/jeremiah-say/)**, founder and editor.
 I choose what is published, review attributions and approve every correction.
 By profession I'm a software developer and data scientist working on sourced data and provenance at
-[GreenCalculus](https://greencalculus.com); I also run [PerBowl](https://perbowl.com) and [Toggle9](https://toggle9.com).
-All four sites share one rule: if something can't be traced to a source, it doesn't go up.
+[GreenCalculus](https://greencalculus.com); I also run [PerBowl](https://perbowl.com), [Toggle9](https://toggle9.com), [Numbers.sg](https://numbers.sg) and [Who Actually Makes](https://whoactuallymakes.com).
+All six share one rule: if something can't be traced to a source, it doesn't go up. Published by [Numbers Publishing Pte. Ltd.](https://numbers.sg/company/) (UEN 202500357K), a Singapore company I own and run.
+Separately, I run [QuitWithNerd](https://quitwithnerd.com), a personal site about quitting smoking.
 
-[My page on Gracious Quotes](https://graciousquotes.com/about/jeremiah-say/) · [GitHub](https://github.com/jeremiahsay) · [LinkedIn](https://www.linkedin.com/in/jeremiahsay/) · [ORCID](https://orcid.org/0009-0009-2025-7691) · [Wikidata](https://www.wikidata.org/wiki/Q140289441)
+[My page on Gracious Quotes](https://graciousquotes.com/about/jeremiah-say/) · [GitHub](https://github.com/jeremiahsay) · [LinkedIn](https://www.linkedin.com/in/jeremiahsay/) · [ORCID](https://orcid.org/0009-0009-2025-7691) · [Wikidata](https://www.wikidata.org/wiki/Q140289441) · [Company record](https://numbers.sg/company/)
 
 <br clear="left">
 
